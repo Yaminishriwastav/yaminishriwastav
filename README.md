@@ -28,7 +28,8 @@ It includes:
 ✔ **Personalized gift suggestions based on user preferences** 🎁  
 ✔ **Admin dashboard for managing products & offers** 📊  
 
-🔗 **Live Demo:** [Kamyas Website](https://github.com/Yaminishriwastav/kamyas-giftsuggestion-)  
+🔗 **Live Demo:** [Kamyas Website](https://yaminishriwastav.github.io/kamyas-giftsuggestion-/)
+
 📂 **GitHub Repo:** [Kamyas Project](https://github.com/Yaminishriwastav/kamyas-giftsuggestion-)  
 
 ---
