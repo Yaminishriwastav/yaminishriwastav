@@ -30,6 +30,9 @@ It includes:
 
 🔗 **Live Demo:** [Kamyas Website](https://yaminishriwastav.github.io/kamyas-giftsuggestion-/)
 
+### 🎬 **Video Demo:**
+[![Kamyas Demo](https://img.youtube.com/vi/tq7pOyDPpr0/0.jpg)](https://youtu.be/tq7pOyDPpr0)
+
 📂 **GitHub Repo:** [Kamyas Project](https://github.com/Yaminishriwastav/kamyas-giftsuggestion-)  
 
 ---
