@@ -1,4 +1,4 @@
-# **Hello there!** 👋 **I'm Yamini**  
+# **Hello there!** 👋 **I'm Yamini Shriwastav**  
 
 I am a **motivated IT student** 💻 with a strong curiosity for **technology** and its real-world applications 🌍.  
 I have a keen interest in **AI tools** 🤖 and their potential for **creative and practical tasks** 🎨.  
