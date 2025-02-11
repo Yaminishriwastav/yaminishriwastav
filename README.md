@@ -50,7 +50,7 @@ A **feature-rich travel diary** with:
 
 ---
 
-## **💡 What I Do**  
+## **Skills**  
 ✔ 🎨 **Frontend Development** - **HTML**, **CSS**, **JavaScript** *(Comfortable working with)*, **React**, **Chakra UI** *(Currently learning)*  
 ✔ 🖥️ **Backend Development** - **Node.js**, **JSON Server**, **Glitch**  
 ✔ 🔗 **API Integration** - **REST APIs**, **Google Maps API**, **Unsplash API** *(Currently learning)*  
