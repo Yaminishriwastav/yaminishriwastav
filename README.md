@@ -46,7 +46,7 @@ Key features include:
 ✔ ⏰ **Timely response** to critical blood requests  
 ✔ ❤️ Promotes the **noble cause of blood donation** and aims to **save lives**
 
-🔗 **Live Demo (if available):** _[Add link if you have one]_  
+ 
 
 ### 🎬 **Video Demo:**  
 [![Blood Bond Demo](https://img.youtube.com/vi/hXpHOV8DSN4/0.jpg)](https://youtu.be/hXpHOV8DSN4)
