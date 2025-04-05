@@ -37,20 +37,21 @@ It includes:
 
 ---
 
-Blood Bond is a comprehensive web-based blood bank system designed to streamline the process of blood donation and distribution. It serves as a vital bridge between voluntary blood donors and those in need of blood transfusions.
+### 🩸 **Blood Bond - Web-Based Blood Bank System** ✅  
+**Blood Bond** is a **comprehensive web-based blood bank system** designed to streamline the process of blood donation and distribution. It serves as a vital bridge between **voluntary blood donors** and those in need of **blood transfusions**.
 
-Key features include:
+Key features include:  
+✔ 🌟 **User-friendly registration** for donors and acceptors  
+✔ ⚡ **Efficient blood request management** by administrators  
+✔ ⏰ **Timely response** to critical blood requests  
+✔ ❤️ Promotes the **noble cause of blood donation** and aims to **save lives**
 
-🌟 User-friendly registration for donors and acceptors
-⚡ Efficient blood request management by administrators
-⏰ Timely response to critical blood requests
-🌟 Blood Bond aims to promote the noble cause of blood donation and save lives in the process.
+🔗 **Live Demo (if available):** _[Add link if you have one]_  
 
+### 🎬 **Video Demo:**  
+[![Blood Bond Demo](https://img.youtube.com/vi/hXpHOV8DSN4/0.jpg)](https://youtu.be/hXpHOV8DSN4)
 
-  ### 🎬 **Video Demo:**
-[![Blood Bond](https://img.youtube.com/vi/tq7pOyDPpr0/0.jpg)](https://youtu.be/hXpHOV8DSN4)
-
-
+📂 **GitHub Repo:** [Blood Bond ](https://github.com/Yaminishriwastav/Blood-Bond-) 
 
 ---
 
