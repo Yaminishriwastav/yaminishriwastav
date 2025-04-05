@@ -1,6 +1,6 @@
 # **Hello there!** 👋 **I'm Yamini Shriwastav**  
 
-I am a **motivated IT student** 💻 with a strong curiosity for **technology** and its real-world applications 🌍.  
+A **motivated IT student** 💻 with a strong curiosity for **technology** and its real-world applications 🌍.  
 I have a keen interest in **AI tools** 🤖 and their potential for **creative and practical tasks** 🎨.  
 As I continue to **gain experience**, I am eager to **learn** 📚, **adapt** 🔄, and **develop my skills** 🛠️.  
 I am excited to explore **opportunities in the tech field** 🚀.  
