@@ -37,15 +37,19 @@ It includes:
 
 ---
 
-### 🌍 **Interactive Travel Journal** ✈️ *(Ongoing - Personal Project)*  
-A **feature-rich travel diary** with:  
-✔ **Interactive Maps** 🗺️  
-✔ **Multimedia Documentation** 📸  
-✔ **Mood Tracking** 😊  
-✔ **Trip Statistics & Insights** 📊  
-✔ **Real-Time Collaboration** 👥  
+Blood Bond is a comprehensive web-based blood bank system designed to streamline the process of blood donation and distribution. It serves as a vital bridge between voluntary blood donors and those in need of blood transfusions.
 
-  
+Key features include:
+
+🌟 User-friendly registration for donors and acceptors
+⚡ Efficient blood request management by administrators
+⏰ Timely response to critical blood requests
+🌟 Blood Bond aims to promote the noble cause of blood donation and save lives in the process.
+
+
+  ### 🎬 **Video Demo:**
+[![Blood Bond](https://img.youtube.com/vi/tq7pOyDPpr0/0.jpg)](https://youtu.be/hXpHOV8DSN4)
+
 
 
 ---
